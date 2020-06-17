@@ -2,6 +2,9 @@
 
 Some go tools for playing with RSS feeds.
 
+**Disclaimer**: I have not written much code in go before.
+This is paritaly why I wrote `goreader` (to learn more about go).
+Any advice / feedback would be welcomed.
 
 ## goreader
 
