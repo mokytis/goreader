@@ -1,6 +1,7 @@
 # goreader
 
-A go tool for playing with RSS feeds.
+Some go tools for playing with RSS feeds.
+
 
 ## goreader
 
@@ -152,6 +153,4 @@ Letter to the MIT faculty: A moment of moral urgency http://news.mit.edu/2020/le
 Newly observed phenomenon could lead to new quantum devices http://news.mit.edu/2020/kohn-anomaly-quantum-devices-0612
 State-level R&amp;D tax credits spur growth of new businesses http://news.mit.edu/2020/state-rd-tax-credits-growth-new-businesses-0612
 ```
-
-
 
